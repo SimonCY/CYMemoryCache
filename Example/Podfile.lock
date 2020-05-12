@@ -1,0 +1,16 @@
+PODS:
+  - CYMemoryCache (0.1.0)
+
+DEPENDENCIES:
+  - CYMemoryCache (from `../`)
+
+EXTERNAL SOURCES:
+  CYMemoryCache:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CYMemoryCache: f3c6c6854d2873d79d6cf76f496c32c647f29145
+
+PODFILE CHECKSUM: 51f6a75efa20d8b4e279b80cc0223189cd513a14
+
+COCOAPODS: 1.8.4
